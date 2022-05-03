@@ -18,8 +18,9 @@ After removing the 9th grade math and reading scores from Thomas High School, ma
 
 ### District Level Results
 
-IMAGE DISTRICT SUMMARY WITH THS GRADES - SAVED
-IMAGE DISTRICT SUMMARY WITHOUT THS GRADES - SAVED
+![district summary with THS](https://user-images.githubusercontent.com/99292945/166406739-ff5d38c5-9752-41b7-9960-7c41b5f9eaca.png)
+
+![District Summary without THS](https://user-images.githubusercontent.com/99292945/166406740-271d7579-3a8e-4561-978e-cad48fef0110.png)
 
 When comparing the district summary with and without the Thomas High School 9th grades
 scores, there are only slight differences between all of the factors, the biggest difference
@@ -27,41 +28,39 @@ being the overall passing percentage was .3% lower without Thomas High School's 
 
 ### School Level Results
 
-IMAGE - School Level Summary with THS Grades - SAVED
+![school summary WITH THS](https://user-images.githubusercontent.com/99292945/166406748-5e18685c-228a-4ce6-8681-3fd2db6c8eb8.png)
 
-IMAGE - School Level Summary without THS Grades - SAVED
+![school summary without THS](https://user-images.githubusercontent.com/99292945/166406749-e14bbdea-34ff-440f-b70b-7a3853434b88.png)
 
 - The changes didn't seem to affect Thomas High School's ranking very much. They are
 still in the top 5 schools based on passing scores.
 
-IMAGE - TOP 5 PERFORMING SCHOOLS WITH THS GRADES - SAVED
-IMAGE -TOP 5 PERFORMING SCHOOLS WITHOUT THS GRADES - SAVED
+![Top 5 schools WITH THS](https://user-images.githubusercontent.com/99292945/166406753-dbbd0982-61ab-4915-9a74-75fcd049178b.png)
+
+![Top 5 schools without THS](https://user-images.githubusercontent.com/99292945/166406754-77582f50-e729-4d8e-8bdd-2d4a25f14997.png)
 
 Test Scores by Category
 
 By changing all the Thomas High School 9th grade scores to null values, the overall
 categories changed:
 
-- IMAGE - Math scores by grade with THS - SAVED
-- IMAGE - math scores by grade without THS - SAVED
-- IMAGE - Reading scores by grade with THS - SAVED
-- IMAGE - Reading scores by grade without THS - SAVED
+![math scores by grade WITH THS](https://user-images.githubusercontent.com/99292945/166406741-2ba43f63-3ec6-4177-b509-5e3d20c429f4.png)
+![math scores by grade without THS](https://user-images.githubusercontent.com/99292945/166406742-0cc3d01f-9c13-42b2-8430-d5351086705f.png)
+![reading scores by grade WITH THS](https://user-images.githubusercontent.com/99292945/166406743-56ef618b-2860-4916-8e80-31505c7a9a80.png)
+![Reading Scores by Grade without THS](https://user-images.githubusercontent.com/99292945/166406744-0481349c-80b8-4b45-bad9-13602d513678.png)
 
 Scores by school spending
 
-- IMAGE - WITH THS
-- IMAGE - WITHOUT THS - saved
+![school spending without THS](https://user-images.githubusercontent.com/99292945/166406747-84fee462-a688-4090-821e-6cb571d32ad3.png)
 
 Scores by school size
 
 - IMAGE - WITH THS
-- IMAGE - WITHOUT THS - saved
+![school size without THS](https://user-images.githubusercontent.com/99292945/166406746-95620166-083a-4d6b-807a-d3eed1e4dd5e.png)
 
 Scores by school type
 
-- IMAGE - WITH THS
-- IMAGE WITHOUT THS - saved
-
+![score type without THS](https://user-images.githubusercontent.com/99292945/166406751-cdd2de11-1052-4577-afab-f510d91b30f3.png)
 
 ## Summary
 
